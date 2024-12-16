@@ -3,4 +3,4 @@
       ["env", { "exclude": ["transform-regenerator"] }]
     ],
     "plugins": ["@babel/plugin-transform-modules-commonjs"]
-  }
+}
